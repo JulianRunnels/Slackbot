@@ -1,0 +1,5 @@
+flask 
+zappa
+boto3
+slackclient
+flask-ngrok
